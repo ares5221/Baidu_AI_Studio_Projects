@@ -68,7 +68,7 @@ class Regressor(fluid.dygraph.Layer):
         x = self.fc(inputs)
         return x
 
-
+print('start exe ...')
 # 定义飞桨动态图的工作环境
 with fluid.dygraph.guard():
     # 声明定义好的线性回归模型
@@ -140,9 +140,6 @@ def load_one_example(data_dir):
     data = np.reshape(np.array(one_data[:-1]), [1, -1]).astype(np.float32)
     label = one_data[-1]
     return data, label
-
-
-
 
 
 with dygraph.guard():

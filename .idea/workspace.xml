@@ -9,44 +9,53 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$ttttttt.coverage" NAME="ttttttt Coverage Results" MODIFIED="1576457474406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession01/src" />
-    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1576046392487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession01/src" />
-    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1575955628871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$work2.coverage" NAME="work2 Coverage Results" MODIFIED="1576647458250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession02" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$tet.coverage" NAME="tet Coverage Results" MODIFIED="1576118369838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession01/src" />
-    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$paddle_demo.coverage" NAME="paddle_demo Coverage Results" MODIFIED="1575623203651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ERNIE/01simple_QA_demo" />
-    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$paddle_demo1.coverage" NAME="paddle_demo1 Coverage Results" MODIFIED="1577876465944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession03" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$work1.coverage" NAME="work1 Coverage Results" MODIFIED="1576646471750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession02" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1575955628871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$paddle_demo.coverage" NAME="paddle_demo Coverage Results" MODIFIED="1575623203651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ERNIE/01simple_QA_demo" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$numpy_test.coverage" NAME="numpy_test Coverage Results" MODIFIED="1576641844958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession02" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$ttttttt.coverage" NAME="ttttttt Coverage Results" MODIFIED="1576457474406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession01/src" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$paddle_demo1.coverage" NAME="paddle_demo1 Coverage Results" MODIFIED="1577876465944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession03" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1576046392487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession01/src" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="numpy_test.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession02/numpy_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="133">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="paddle_demo1.py" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession03/paddle_demo1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="74">
               <caret line="120" column="13" selection-start-line="120" selection-start-column="13" selection-end-line="120" selection-end-column="13" />
               <folding>
-                <element signature="e#62#75#0" expanded="true" />
                 <element signature="e#247#1563#0" />
-                <element signature="e#3724#4149#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession04/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="38">
+                <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -84,22 +93,15 @@
         <option value="$PROJECT_DIR$/02深度学习入门-百度/lession02/work2.py" />
         <option value="$PROJECT_DIR$/01ERNIE/项目背景：我们项目中有一个小模块，主要功能是解决一些常用问题的问答功能，实现思路是通过语义相似度匹配" />
         <option value="$PROJECT_DIR$/02深度学习入门-百度/lession03/paddle_demo1.py" />
+        <option value="$PROJECT_DIR$/02深度学习入门-百度/lession04/readme.md" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
-    <option name="width" value="1385" />
-    <option name="height" value="728" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="629" />
+    <option name="y" value="16" />
+    <option name="width" value="976" />
+    <option name="height" value="988" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -124,27 +126,7 @@
               <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
               <item name="02深度学习入门-百度" type="462c0819:PsiDirectoryNode" />
-              <item name="lession01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="02深度学习入门-百度" type="462c0819:PsiDirectoryNode" />
-              <item name="lession01" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="02深度学习入门-百度" type="462c0819:PsiDirectoryNode" />
-              <item name="lession03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="02深度学习入门-百度" type="462c0819:PsiDirectoryNode" />
-              <item name="lession03" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="lession04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,6 +179,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="paddle_demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baidu_AI_Studio_Projects" />
@@ -216,6 +201,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="ttttttt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baidu_AI_Studio_Projects" />
@@ -235,6 +223,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="work1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baidu_AI_Studio_Projects" />
@@ -254,6 +245,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="work2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baidu_AI_Studio_Projects" />
@@ -273,6 +267,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.numpy_test" />
@@ -304,53 +301,44 @@
       <workItem from="1575621502658" duration="11435000" />
       <workItem from="1576457177647" duration="1557000" />
       <workItem from="1576635192057" duration="6827000" />
+      <workItem from="1578643407642" duration="71000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21506000" />
+    <option name="totallyTimeSpent" value="21577000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="0" width="1385" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="11" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39491525" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15698113" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.2664151" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11247335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299595" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39491525" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3299595" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.2664151" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession02/numpy_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession01/src/tet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -420,25 +408,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession03/work/housing.data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession02/numpy_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="133">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession03/work/housing.data">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession03/paddle_demo1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
           <caret line="120" column="13" selection-start-line="120" selection-start-column="13" selection-end-line="120" selection-end-column="13" />
           <folding>
-            <element signature="e#62#75#0" expanded="true" />
             <element signature="e#247#1563#0" />
-            <element signature="e#3724#4149#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession04/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

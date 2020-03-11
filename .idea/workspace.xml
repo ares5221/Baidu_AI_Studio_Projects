@@ -26,25 +26,12 @@
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$work2__1_.coverage" NAME="work2 (1) Coverage Results" MODIFIED="1583036617812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03NLP/lesson01" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$paddle_demo.coverage" NAME="paddle_demo Coverage Results" MODIFIED="1575623203651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ERNIE/01simple_QA_demo" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$work1__1_.coverage" NAME="work1 (1) Coverage Results" MODIFIED="1583035087706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03NLP/lesson01" />
-    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$lesson01.coverage" NAME="lesson01 Coverage Results" MODIFIED="1583835671712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04julyNLP/NLP与聊天机器人课件/NLP与聊天机器人课件" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$lesson01.coverage" NAME="lesson01 Coverage Results" MODIFIED="1583910844881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04julyNLP/NLP与聊天机器人课件/NLP与聊天机器人课件" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$ttttttt.coverage" NAME="ttttttt Coverage Results" MODIFIED="1576457474406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession01/src" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1576046392487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession01/src" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04julyNLP/NLP与聊天机器人课件/NLP与聊天机器人课件/lesson01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-              <folding>
-                <element signature="e#45#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -108,32 +95,6 @@
               <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="04julyNLP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="04julyNLP" type="462c0819:PsiDirectoryNode" />
-              <item name="NLP与聊天机器人课件" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="04julyNLP" type="462c0819:PsiDirectoryNode" />
-              <item name="NLP与聊天机器人课件" type="462c0819:PsiDirectoryNode" />
-              <item name="NLP与聊天机器人课件" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="04julyNLP" type="462c0819:PsiDirectoryNode" />
-              <item name="NLP与聊天机器人课件" type="462c0819:PsiDirectoryNode" />
-              <item name="NLP与聊天机器人课件" type="462c0819:PsiDirectoryNode" />
-              <item name="第一阶段课件" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -142,7 +103,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JulyEdu-Projects" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -312,22 +273,23 @@
       <workItem from="1576635192057" duration="6827000" />
       <workItem from="1578643407642" duration="7129000" />
       <workItem from="1581298757352" duration="359000" />
-      <workItem from="1583029500559" duration="8629000" />
+      <workItem from="1583029500559" duration="10224000" />
+      <workItem from="1583911319702" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37623000" />
+    <option name="totallyTimeSpent" value="39247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1380" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2159091" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23409091" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299595" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46721312" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46721312" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -495,8 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04julyNLP/NLP与聊天机器人课件/NLP与聊天机器人课件/lesson01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="314">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
           <folding>
             <element signature="e#45#56#0" expanded="true" />
           </folding>

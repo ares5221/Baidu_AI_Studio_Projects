@@ -21,6 +21,7 @@
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$numpy_test.coverage" NAME="numpy_test Coverage Results" MODIFIED="1576641844958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession02" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$test_jieba.coverage" NAME="test_jieba Coverage Results" MODIFIED="1583033730497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03NLP/lesson01" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$paddle_demo1.coverage" NAME="paddle_demo1 Coverage Results" MODIFIED="1577876465944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession03" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$354281.coverage" NAME="354281 Coverage Results" MODIFIED="1585590380436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04Recommendation/03" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$work2.coverage" NAME="work2 Coverage Results" MODIFIED="1576647458250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession02" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$plot_sigmoid_daoshu.coverage" NAME="plot_sigmoid_daoshu Coverage Results" MODIFIED="1578647298570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession04/computer_vision" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$work2__1_.coverage" NAME="work2 (1) Coverage Results" MODIFIED="1583036617812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03NLP/lesson01" />
@@ -31,7 +32,30 @@
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1576046392487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession01/src" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04Recommendation/03/354281.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="376" column="94" lean-forward="true" selection-start-line="376" selection-start-column="4" selection-end-line="376" selection-end-column="94" />
+              <folding>
+                <element signature="e#1156#1169#0" expanded="true" />
+                <element signature="e#7422#8748#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04Recommendation/02/354285.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="371" lean-forward="true" selection-start-line="371" selection-end-line="371" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,6 +96,8 @@
         <option value="$PROJECT_DIR$/03NLP/lesson01/work1.py" />
         <option value="$PROJECT_DIR$/03NLP/lesson01/work2.py" />
         <option value="$PROJECT_DIR$/04julyNLP/NLP与聊天机器人课件/NLP与聊天机器人课件/lesson01.py" />
+        <option value="$PROJECT_DIR$/04Recommendation/03/354281.py" />
+        <option value="$PROJECT_DIR$/04Recommendation/02/354285.py" />
       </list>
     </option>
   </component>
@@ -95,6 +121,17 @@
               <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="04Recommendation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="04Recommendation" type="462c0819:PsiDirectoryNode" />
+              <item name="02" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -103,7 +140,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JulyEdu-Projects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -130,7 +167,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lesson01">
+  <component name="RunManager" selected="Python.354281">
+    <configuration name="354281" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Baidu_AI_Studio_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04Recommendation/03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04Recommendation/03/354281.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lesson01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baidu_AI_Studio_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,28 +204,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04julyNLP/NLP与聊天机器人课件/NLP与聊天机器人课件/lesson01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="plot_sigmoid_daoshu" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Baidu_AI_Studio_Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02深度学习入门-百度/lession04/computer_vision" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\02深度学习入门-百度\lession02\plot_sigmoid_daoshu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,19 +279,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.plot_sigmoid_daoshu" />
       <item itemvalue="Python.test_jieba" />
       <item itemvalue="Python.work1 (1)" />
       <item itemvalue="Python.work2 (1)" />
       <item itemvalue="Python.lesson01" />
+      <item itemvalue="Python.354281" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.354281" />
         <item itemvalue="Python.lesson01" />
         <item itemvalue="Python.work2 (1)" />
         <item itemvalue="Python.work1 (1)" />
         <item itemvalue="Python.test_jieba" />
-        <item itemvalue="Python.plot_sigmoid_daoshu" />
       </list>
     </recent_temporary>
   </component>
@@ -275,21 +312,24 @@
       <workItem from="1581298757352" duration="359000" />
       <workItem from="1583029500559" duration="10224000" />
       <workItem from="1583911319702" duration="29000" />
+      <workItem from="1585146892091" duration="685000" />
+      <workItem from="1585586080056" duration="4462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39247000" />
+    <option name="totallyTimeSpent" value="44394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1380" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23409091" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299595" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46721312" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3442623" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -455,13 +495,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04julyNLP/NLP与聊天机器人课件/NLP与聊天机器人课件/lesson01.py">
+    <entry file="file://$PROJECT_DIR$/04julyNLP/NLP与聊天机器人课件/NLP与聊天机器人课件/lesson01.py" />
+    <entry file="file://$PROJECT_DIR$/04Recommendation/03/work/ml-1m/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Recommendation/03/work/ml-1m/users.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Recommendation/03/work/ml-1m/movies.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Recommendation/03/354281.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="190">
+          <caret line="376" column="94" lean-forward="true" selection-start-line="376" selection-start-column="4" selection-end-line="376" selection-end-column="94" />
           <folding>
-            <element signature="e#45#56#0" expanded="true" />
+            <element signature="e#1156#1169#0" expanded="true" />
+            <element signature="e#7422#8748#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Recommendation/02/354285.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="371" lean-forward="true" selection-start-line="371" selection-end-line="371" />
         </state>
       </provider>
     </entry>

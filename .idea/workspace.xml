@@ -15,21 +15,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$4draw_rose_pie.coverage" NAME="4draw_rose_pie Coverage Results" MODIFIED="1585620225317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06CV-Coronavirus/01" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$tet.coverage" NAME="tet Coverage Results" MODIFIED="1576118369838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession01/src" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$draw_nation.coverage" NAME="draw_nation Coverage Results" MODIFIED="1585619321406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06CV-Coronavirus/01" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$work1.coverage" NAME="work1 Coverage Results" MODIFIED="1576646471750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession02" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1575955628871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$numpy_test.coverage" NAME="numpy_test Coverage Results" MODIFIED="1576641844958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession02" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$get_data.coverage" NAME="get_data Coverage Results" MODIFIED="1585618978321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06CV-Coronavirus/01" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$test_jieba.coverage" NAME="test_jieba Coverage Results" MODIFIED="1583033730497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03NLP/lesson01" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$paddle_demo1.coverage" NAME="paddle_demo1 Coverage Results" MODIFIED="1577876465944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession03" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$354281.coverage" NAME="354281 Coverage Results" MODIFIED="1585590380436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04Recommendation/03" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$work2.coverage" NAME="work2 Coverage Results" MODIFIED="1576647458250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession02" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$draw_increasing.coverage" NAME="draw_increasing Coverage Results" MODIFIED="1585619612554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06CV-Coronavirus/01" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$plot_sigmoid_daoshu.coverage" NAME="plot_sigmoid_daoshu Coverage Results" MODIFIED="1578647298570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession04/computer_vision" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$work2__1_.coverage" NAME="work2 (1) Coverage Results" MODIFIED="1583036617812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03NLP/lesson01" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$paddle_demo.coverage" NAME="paddle_demo Coverage Results" MODIFIED="1575623203651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ERNIE/01simple_QA_demo" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$work1__1_.coverage" NAME="work1 (1) Coverage Results" MODIFIED="1583035087706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03NLP/lesson01" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$lesson01.coverage" NAME="lesson01 Coverage Results" MODIFIED="1583910844881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04julyNLP/NLP与聊天机器人课件/NLP与聊天机器人课件" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$ttttttt.coverage" NAME="ttttttt Coverage Results" MODIFIED="1576457474406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession01/src" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$draw_hubei.coverage" NAME="draw_hubei Coverage Results" MODIFIED="1585619527069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06CV-Coronavirus/01" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1576046392487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession01/src" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$5draw_pie.coverage" NAME="5draw_pie Coverage Results" MODIFIED="1585622135365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06CV-Coronavirus/01" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -37,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/04Recommendation/03/354281.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="376" column="94" lean-forward="true" selection-start-line="376" selection-start-column="4" selection-end-line="376" selection-end-column="94" />
+              <caret line="376" column="94" selection-start-line="376" selection-start-column="4" selection-end-line="376" selection-end-column="94" />
               <folding>
                 <element signature="e#1156#1169#0" expanded="true" />
                 <element signature="e#7422#8748#0" />
@@ -46,11 +52,80 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04Recommendation/02/354285.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="371" lean-forward="true" selection-start-line="371" selection-end-line="371" />
+            <state relative-caret-position="247">
+              <caret line="444" column="7" selection-start-line="444" selection-start-column="7" selection-end-line="444" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/1draw_nation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <element signature="e#45#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/2draw_hubei.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <element signature="e#46#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/3draw_increasing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1045">
+              <caret line="55" column="65" selection-start-line="55" selection-start-column="65" selection-end-line="55" selection-end-column="65" />
+              <folding>
+                <element signature="e#45#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/4draw_rose_pie.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <folding>
+                <element signature="e#50#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/5draw_pie.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+              <folding>
+                <element signature="e#46#83#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/data/20200331.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="98" selection-start-column="84" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -98,10 +173,16 @@
         <option value="$PROJECT_DIR$/04julyNLP/NLP与聊天机器人课件/NLP与聊天机器人课件/lesson01.py" />
         <option value="$PROJECT_DIR$/04Recommendation/03/354281.py" />
         <option value="$PROJECT_DIR$/04Recommendation/02/354285.py" />
+        <option value="$PROJECT_DIR$/06CV-Coronavirus/01/get_data.py" />
+        <option value="$PROJECT_DIR$/06CV-Coronavirus/01/draw_nation.py" />
+        <option value="$PROJECT_DIR$/06CV-Coronavirus/01/draw_hubei.py" />
+        <option value="$PROJECT_DIR$/06CV-Coronavirus/01/draw_increasing.py" />
+        <option value="$PROJECT_DIR$/06CV-Coronavirus/01/4draw_rose_pie.py" />
+        <option value="$PROJECT_DIR$/06CV-Coronavirus/01/5draw_pie.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
@@ -132,6 +213,24 @@
               <item name="04Recommendation" type="462c0819:PsiDirectoryNode" />
               <item name="02" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="06CV-Coronavirus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="06CV-Coronavirus" type="462c0819:PsiDirectoryNode" />
+              <item name="01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="06CV-Coronavirus" type="462c0819:PsiDirectoryNode" />
+              <item name="01" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -146,13 +245,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\02深度学习入门-百度\lession02" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\python\Baidu_AI_Studio_Projects\02深度学习入门-百度\lession03\work" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\02深度学习入门-百度\lession02" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\02深度学习入门-百度\lession01\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\01\work" />
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\02深度学习入门-百度\lession02" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -167,8 +267,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.354281">
-    <configuration name="354281" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.5draw_pie">
+    <configuration name="4draw_rose_pie" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baidu_AI_Studio_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,12 +276,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04Recommendation/03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06CV-Coronavirus/01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04Recommendation/03/354281.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06CV-Coronavirus/01/4draw_rose_pie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5draw_pie" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baidu_AI_Studio_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,12 +298,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04julyNLP/NLP与聊天机器人课件/NLP与聊天机器人课件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06CV-Coronavirus/01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04julyNLP/NLP与聊天机器人课件/NLP与聊天机器人课件/lesson01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06CV-Coronavirus/01/5draw_pie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +312,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_jieba" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="draw_hubei" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baidu_AI_Studio_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,12 +320,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03NLP/lesson01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06CV-Coronavirus/01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03NLP/lesson01/test_jieba.py" />
+      <option name="SCRIPT_NAME" value="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\01\2draw_hubei.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +334,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="work1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="draw_increasing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baidu_AI_Studio_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,12 +342,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03NLP/lesson01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06CV-Coronavirus/01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03NLP/lesson01/work1.py" />
+      <option name="SCRIPT_NAME" value="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\01\3draw_increasing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +356,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="work2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="draw_nation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baidu_AI_Studio_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,12 +364,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03NLP/lesson01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06CV-Coronavirus/01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03NLP/lesson01/work2.py" />
+      <option name="SCRIPT_NAME" value="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\01\1draw_nation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,19 +379,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test_jieba" />
-      <item itemvalue="Python.work1 (1)" />
-      <item itemvalue="Python.work2 (1)" />
-      <item itemvalue="Python.lesson01" />
-      <item itemvalue="Python.354281" />
+      <item itemvalue="Python.draw_nation" />
+      <item itemvalue="Python.draw_hubei" />
+      <item itemvalue="Python.draw_increasing" />
+      <item itemvalue="Python.4draw_rose_pie" />
+      <item itemvalue="Python.5draw_pie" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.354281" />
-        <item itemvalue="Python.lesson01" />
-        <item itemvalue="Python.work2 (1)" />
-        <item itemvalue="Python.work1 (1)" />
-        <item itemvalue="Python.test_jieba" />
+        <item itemvalue="Python.5draw_pie" />
+        <item itemvalue="Python.4draw_rose_pie" />
+        <item itemvalue="Python.draw_increasing" />
+        <item itemvalue="Python.draw_hubei" />
+        <item itemvalue="Python.draw_nation" />
       </list>
     </recent_temporary>
   </component>
@@ -313,23 +413,23 @@
       <workItem from="1583029500559" duration="10224000" />
       <workItem from="1583911319702" duration="29000" />
       <workItem from="1585146892091" duration="685000" />
-      <workItem from="1585586080056" duration="4462000" />
+      <workItem from="1585586080056" duration="8631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44394000" />
+    <option name="totallyTimeSpent" value="48563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1380" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299595" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3442623" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3442623" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -508,7 +608,7 @@
     <entry file="file://$PROJECT_DIR$/04Recommendation/03/354281.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="376" column="94" lean-forward="true" selection-start-line="376" selection-start-column="4" selection-end-line="376" selection-end-column="94" />
+          <caret line="376" column="94" selection-start-line="376" selection-start-column="4" selection-end-line="376" selection-end-column="94" />
           <folding>
             <element signature="e#1156#1169#0" expanded="true" />
             <element signature="e#7422#8748#0" />
@@ -516,10 +616,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04Recommendation/02/354285.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/0get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+          <folding>
+            <element signature="e#45#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04Recommendation/02/354285.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="371" lean-forward="true" selection-start-line="371" selection-end-line="371" />
+        <state relative-caret-position="247">
+          <caret line="444" column="7" selection-start-line="444" selection-start-column="7" selection-end-line="444" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/data/全国实时确诊数据.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/2draw_hubei.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/4draw_rose_pie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding>
+            <element signature="e#50#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/data/statistics_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/3draw_increasing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="65" selection-start-line="55" selection-start-column="65" selection-end-line="55" selection-end-column="65" />
+          <folding>
+            <element signature="e#45#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/1draw_nation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#45#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/data/20200331.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="98" selection-start-column="84" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/01/5draw_pie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+          <folding>
+            <element signature="e#46#83#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -25,9 +25,28 @@ from paddle.fluid.dygraph.nn import Embedding
 class classify():
     data_root_path = ""
     dict_path = "data/data9658/dict.txt"
+    train_data_path = "data/data9658/shuffle_Train_IDs.txt"
     test_data_path = "data/data9658/Test_IDs.txt"
     model_save_dir = "work/classify_nn/"
     save_path = 'work/result.txt'
+
+    def get_train_data(train_data_path):
+        train_data = []
+        with open(train_data_path, 'r', encoding='utf-8') as f_data:
+            for ss in f_data.readlines():
+                data_str, label = ss.split('\t')
+                data_list = []
+                for dd in data_str.split(','):
+                    data_list.append(int(dd))
+                train_data.append((data_list, label))
+        return train_data
+
+    def get_word_dict(dict_path):
+        with open(dict_path, 'r', encoding='utf-8') as f_data:
+            dict_txt = eval(f_data.readlines()[0])
+        dict_txt = dict(dict_txt)
+        # print(dict_txt)
+        return dict_txt
 
     # 编写一个迭代器，每次调用这个迭代器都会返回一个新的batch，用于训练或者预测
     def build_batch(word2id_dict, corpus, batch_size, epoch_num, max_seq_len, shuffle=True):
@@ -67,25 +86,30 @@ class classify():
         if len(sentence_batch) == batch_size:
             yield np.array(sentence_batch).astype("int64"), np.array(sentence_label_batch).astype("int64")
 
-
-
     def train(self):
         # 开始训练
         batch_size = 128
-        epoch_num = 5
+        epoch_num = 1
         embedding_size = 256
         step = 0
         learning_rate = 0.01
         max_seq_len = 128
+        vocab_size = 5308
 
-        with fluid.dygraph.guard(fluid.CUDAPlace(0)):
+        train_corpus = self.get_train_data(self.train_data_path)
+
+        word2id_dict =self.get_word_dict(self.dict_path)
+
+
+        # with fluid.dygraph.guard(fluid.CUDAPlace(0)):
+        with fluid.dygraph.guard(fluid.CPUPlace()):
             # 创建一个用于情感分类的网络实例，sentiment_classifier
             sentiment_classifier = SentimentClassifier(
                 "sentiment_classifier", embedding_size, vocab_size, num_steps=max_seq_len)
             # 创建优化器AdamOptimizer，用于更新这个网络的参数
             adam = fluid.optimizer.AdamOptimizer(learning_rate=learning_rate)
 
-            for sentences, labels in build_batch(
+            for sentences, labels in self.build_batch(
                     word2id_dict, train_corpus, batch_size, epoch_num, max_seq_len):
 
                 sentences_var = fluid.dygraph.to_variable(sentences)
@@ -99,48 +123,12 @@ class classify():
                 step += 1
                 if step % 10 == 0:
                     print("step %d, loss %.3f" % (step, loss.numpy()[0]))
-
-            # 我们希望在网络训练结束以后评估一下训练好的网络的效果
-            # 通过eval()函数，将网络设置为eval模式，在eval模式中，网络不会进行梯度更新
-            sentiment_classifier.eval()
-            # 这里我们需要记录模型预测结果的准确率
-            # 对于二分类任务来说，准确率的计算公式为：
-            # (true_positive + true_negative) /
-            # (true_positive + true_negative + false_positive + false_negative)
-            tp = 0.
-            tn = 0.
-            fp = 0.
-            fn = 0.
-            for sentences, labels in build_batch(
-                    word2id_dict, test_corpus, batch_size, 1, max_seq_len):
-
-                sentences_var = fluid.dygraph.to_variable(sentences)
-                labels_var = fluid.dygraph.to_variable(labels)
-
-                # 获取模型对当前batch的输出结果
-                pred, loss = sentiment_classifier(sentences_var, labels_var)
-
-                # 把输出结果转换为numpy array的数据结构
-                # 遍历这个数据结构，比较预测结果和对应label之间的关系，并更新tp，tn，fp和fn
-                pred = pred.numpy()
-                for i in range(len(pred)):
-                    if labels[i][0] == 1:
-                        if pred[i][1] > pred[i][0]:
-                            tp += 1
-                        else:
-                            fn += 1
-                    else:
-                        if pred[i][1] > pred[i][0]:
-                            fp += 1
-                        else:
-                            tn += 1
-
-            # 输出最终评估的模型效果
-            print("the acc in the test set is %.3f" % ((tp + tn) / (tp + tn + fp + fn)))
+        fluid.save_dygraph(sentiment_classifier.state_dict(), self.model_save_dir)  # 保存模型
         print('训练模型保存完成！')
         self.test(self)
     
         # 获取数据
+
     def get_data(self,sentence):
         # 读取数据字典
         with open(self.dict_path, 'r', encoding='utf-8') as f_data:
@@ -392,7 +380,7 @@ class SentimentClassifier(fluid.Layer):
                  name_scope,
                  hidden_size,
                  vocab_size,
-                 class_num=2,
+                 class_num=14,
                  num_layers=1,
                  num_steps=128,
                  init_scale=0.1,
@@ -460,6 +448,7 @@ class SentimentClassifier(fluid.Layer):
                 low=-self.init_scale, high=self.init_scale))
 
     def forward(self, input, label):
+        batch_size,embedding_size = 128,256
         # 首先我们需要定义LSTM的初始hidden和cell，这里我们使用0来初始化这个序列的记忆
         init_hidden_data = np.zeros(
             (1, batch_size, embedding_size), dtype='float32')
@@ -520,9 +509,9 @@ if __name__ == "__main__":
 # In[ ]:
 
 
-get_ipython().system('rm -rf submit.sh')
-get_ipython().system('wget -O submit.sh http://ai-studio-static.bj.bcebos.com/script/submit.sh')
-get_ipython().system('sh submit.sh work/result.txt 密码')
+# get_ipython().system('rm -rf submit.sh')
+# get_ipython().system('wget -O submit.sh http://ai-studio-static.bj.bcebos.com/script/submit.sh')
+# get_ipython().system('sh submit.sh work/result.txt 密码')
 
 
 # 请点击[此处](https://ai.baidu.com/docs#/AIStudio_Project_Notebook/a38e5576)查看本环境基本用法.  <br>

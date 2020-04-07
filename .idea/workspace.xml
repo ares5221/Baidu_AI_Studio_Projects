@@ -41,20 +41,7 @@
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$5draw_pie.coverage" NAME="5draw_pie Coverage Results" MODIFIED="1585622135365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06CV-Coronavirus/01" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/03/369809.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="267" column="33" selection-start-line="267" selection-start-column="29" selection-end-line="267" selection-end-column="33" />
-              <folding>
-                <element signature="e#673#691#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -158,13 +145,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\05" />
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\04" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\03" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\02" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\03NLP\exam\data\data9658" />
-      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\03NLP\exam" />
-      <recent name="D:\python\Baidu_AI_Studio_Projects\02深度学习入门-百度\lession03\work" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\04\data" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\02\data\data23668" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\01\work" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\02深度学习入门-百度\lession02" />
@@ -328,12 +316,12 @@
       <workItem from="1583029500559" duration="10224000" />
       <workItem from="1583911319702" duration="29000" />
       <workItem from="1585146892091" duration="685000" />
-      <workItem from="1585586080056" duration="29059000" />
+      <workItem from="1585586080056" duration="30176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68991000" />
+    <option name="totallyTimeSpent" value="70108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1318" height="784" extended-state="6" />
@@ -376,7 +364,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession01/readme.md" />
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -711,6 +698,14 @@
             <element signature="e#722#731#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/05/results.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/03/369809.py">

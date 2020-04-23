@@ -29,7 +29,7 @@
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$pytest_in_391574_py.coverage" NAME="pytest in 391574.py Coverage Results" MODIFIED="1586503201549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07Demo_Projects/01Face_Rec" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$369809.coverage" NAME="369809 Coverage Results" MODIFIED="1585914155819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06CV-Coronavirus/03" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$plot_sigmoid_daoshu.coverage" NAME="plot_sigmoid_daoshu Coverage Results" MODIFIED="1578647298570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession04/computer_vision" />
-    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$421605.coverage" NAME="421605 Coverage Results" MODIFIED="1587624113425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08python_learning/lesson02" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$421605.coverage" NAME="421605 Coverage Results" MODIFIED="1587648341268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08python_learning/lesson02" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$ttttttt.coverage" NAME="ttttttt Coverage Results" MODIFIED="1576457474406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02深度学习入门-百度/lession01/src" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$5draw_pie.coverage" NAME="5draw_pie Coverage Results" MODIFIED="1585622135365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06CV-Coronavirus/01" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$draw_nation.coverage" NAME="draw_nation Coverage Results" MODIFIED="1585619321406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06CV-Coronavirus/01" />
@@ -49,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/08python_learning/lesson02/421605.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="249" column="36" lean-forward="true" selection-start-line="249" selection-start-column="36" selection-end-line="249" selection-end-column="36" />
+            <state relative-caret-position="256">
+              <caret line="247" column="37" selection-start-line="247" selection-start-column="37" selection-end-line="247" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -125,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="290" />
     <option name="y" value="13" />
     <option name="width" value="1015" />
@@ -312,9 +312,9 @@
     <list>
       <item itemvalue="Python.369809" />
       <item itemvalue="Python.391574" />
-      <item itemvalue="Python tests.pytest in 391574.py" />
       <item itemvalue="Python.418425" />
       <item itemvalue="Python.421605" />
+      <item itemvalue="Python tests.pytest in 391574.py" />
     </list>
     <recent_temporary>
       <list>
@@ -346,6 +346,7 @@
       <workItem from="1585146892091" duration="685000" />
       <workItem from="1585586080056" duration="34096000" />
       <workItem from="1587556664562" duration="9266000" />
+      <workItem from="1587637859057" duration="617000" />
     </task>
     <servers />
   </component>
@@ -355,13 +356,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83294000" />
+    <option name="totallyTimeSpent" value="83911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1318" height="784" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18600954" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14387918" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -686,11 +686,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/05/results.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="-57" />
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/03/369809.py">
@@ -753,8 +753,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/08python_learning/lesson02/421605.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="249" column="36" lean-forward="true" selection-start-line="249" selection-start-column="36" selection-end-line="249" selection-end-column="36" />
+        <state relative-caret-position="256">
+          <caret line="247" column="37" selection-start-line="247" selection-start-column="37" selection-end-line="247" selection-end-column="37" />
         </state>
       </provider>
     </entry>

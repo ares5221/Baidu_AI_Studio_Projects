@@ -240,16 +240,18 @@ def crawl_pic_urls():
         name = star['name']
         link = star['link']
         pic_urls = []
-        #！！！请在以下完成对每个选手图片的爬取，将所有图片url存储在一个列表pic_urls中！！！
         try:
             response = requests.get(link, headers=headers)
             soup = BeautifulSoup(response.text, 'lxml')
-            imgs = soup.find_all('img')
+            pic_list_url = soup.select('.summary-pic a')[0].get('href')
+            pic_list_url = 'https://baike.baidu.com' + pic_list_url
+            pic_list_response = requests.get(pic_list_url, headers=headers)
+            bs = BeautifulSoup(pic_list_response.text, 'lxml')
+            pic_list_html = bs.select('.pic-list img')
 
-            for img in imgs:
+            for img in pic_list_html:
                 src = img.get('src')
-                if src.startswith('http'):
-                    pic_urls.append(src)
+                pic_urls.append(src)
         except Exception as e:
             print(e)
         #！！！根据图片链接列表pic_urls, 下载所有图片，保存在以name命名的文件夹中！！！

@@ -36,6 +36,7 @@
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$get_data.coverage" NAME="get_data Coverage Results" MODIFIED="1585618978321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06CV-Coronavirus/01" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$316641.coverage" NAME="316641 Coverage Results" MODIFIED="1585841769257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03NLP/exam" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$354281.coverage" NAME="354281 Coverage Results" MODIFIED="1585590380436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04Recommendation/03" />
+    <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$425859.coverage" NAME="425859 Coverage Results" MODIFIED="1587709129462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08python_learning/lesson03" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$work2__1_.coverage" NAME="work2 (1) Coverage Results" MODIFIED="1583036617812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03NLP/lesson01" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$paddle_demo.coverage" NAME="paddle_demo Coverage Results" MODIFIED="1575623203651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01ERNIE/01simple_QA_demo" />
     <SUITE FILE_PATH="coverage/Baidu_AI_Studio_Projects$work1__1_.coverage" NAME="work1 (1) Coverage Results" MODIFIED="1583035087706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03NLP/lesson01" />
@@ -47,10 +48,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08python_learning/lesson02/421605.py">
+        <entry file="file://$PROJECT_DIR$/08python_learning/lesson03/425859.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="247" column="37" selection-start-line="247" selection-start-column="37" selection-end-line="247" selection-end-column="37" />
+            <state relative-caret-position="2070">
+              <caret line="136" column="29" selection-start-line="136" selection-start-column="24" selection-end-line="136" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -122,6 +123,7 @@
         <option value="$PROJECT_DIR$/07Demo_Projects/01Face_Rec/391574.py" />
         <option value="$PROJECT_DIR$/08python_learning/lesson01/418425.py" />
         <option value="$PROJECT_DIR$/08python_learning/lesson02/421605.py" />
+        <option value="$PROJECT_DIR$/08python_learning/lesson03/425859.py" />
       </list>
     </option>
   </component>
@@ -154,14 +156,7 @@
               <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
               <item name="08python_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="08python_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson02" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,19 +172,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson03" />
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson02" />
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning" />
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson01" />
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\07Demo_Projects\01Face_Rec" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson01" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\04\data" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\02\data\data23668" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\01\work" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\02深度学习入门-百度\lession02" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson02" />
-      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning" />
-      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson01" />
-      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\07Demo_Projects\01Face_Rec" />
-      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\05" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -204,29 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.421605">
-    <configuration name="369809" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Baidu_AI_Studio_Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06CV-Coronavirus/03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06CV-Coronavirus/03/369809.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.425859">
     <configuration name="391574" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baidu_AI_Studio_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,6 +266,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="425859" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Baidu_AI_Studio_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08python_learning/lesson03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08python_learning/lesson03/425859.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest in 391574.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Baidu_AI_Studio_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,19 +305,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.369809" />
       <item itemvalue="Python.391574" />
       <item itemvalue="Python.418425" />
       <item itemvalue="Python.421605" />
       <item itemvalue="Python tests.pytest in 391574.py" />
+      <item itemvalue="Python.425859" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.425859" />
         <item itemvalue="Python.421605" />
         <item itemvalue="Python.418425" />
         <item itemvalue="Python.391574" />
         <item itemvalue="Python tests.pytest in 391574.py" />
-        <item itemvalue="Python.369809" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +341,7 @@
       <workItem from="1585146892091" duration="685000" />
       <workItem from="1585586080056" duration="34096000" />
       <workItem from="1587556664562" duration="9266000" />
-      <workItem from="1587637859057" duration="617000" />
+      <workItem from="1587637859057" duration="3041000" />
     </task>
     <servers />
   </component>
@@ -356,17 +351,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83911000" />
+    <option name="totallyTimeSpent" value="86335000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1318" height="784" extended-state="7" />
+    <frame x="54" y="-8" width="1318" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14387918" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14387918" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299595" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40153846" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31846154" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -380,7 +376,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.26550078" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.26232114" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -399,27 +395,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession04/computer_visual.py" />
-    <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession03/paddle_demo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="120" column="13" selection-start-line="120" selection-start-column="13" selection-end-line="120" selection-end-column="13" />
-          <folding>
-            <element signature="e#247#1563#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession02/work1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="24" selection-end-column="10" />
-          <folding>
-            <element signature="e#45#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02深度学习入门-百度/lession02/plot_sigmoid_daoshu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -751,10 +726,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/08python_learning/lesson03/data/data31557/20200422.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/matplotlib/backend_bases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="1962" selection-start-line="1962" selection-end-line="1962" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/08python_learning/lesson02/421605.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="247" column="37" selection-start-line="247" selection-start-column="37" selection-end-line="247" selection-end-column="37" />
+        <state relative-caret-position="161">
+          <caret line="242" column="12" selection-start-line="242" selection-start-column="12" selection-end-line="242" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08python_learning/lesson03/425859.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="136" column="29" selection-start-line="136" selection-start-column="24" selection-end-line="136" selection-end-column="29" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,5 @@
+dataset/test/yushuxin.jpg 0
+dataset/test/xujiaqi.jpg 1
+dataset/test/zhaoxiaotang.jpg 2
+dataset/test/anqi.jpg 3
+dataset/test/wangchengxuan.jpg 4

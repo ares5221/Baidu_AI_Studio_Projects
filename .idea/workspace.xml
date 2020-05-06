@@ -49,20 +49,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08python_learning/lesson05/433941.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="1042">
               <caret line="140" column="18" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08python_learning/lesson03/425859.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08python_learning/lesson02/421605.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1824">
-              <caret line="96" column="44" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="44" />
+            <state relative-caret-position="228">
+              <caret line="275" column="8" selection-start-line="275" selection-start-column="8" selection-end-line="284" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -144,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="290" />
     <option name="y" value="13" />
     <option name="width" value="1015" />
@@ -173,13 +173,25 @@
               <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
               <item name="08python_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="08python_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="08python_learning" type="462c0819:PsiDirectoryNode" />
               <item name="lesson03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Baidu_AI_Studio_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Baidu_AI_Studio_Projects" type="462c0819:PsiDirectoryNode" />
               <item name="08python_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson04" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,19 +207,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson04" />
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson05" />
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson04\an" />
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson03" />
+      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson02" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson01" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\04\data" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\02\data\data23668" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\06CV-Coronavirus\01\work" />
       <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\02深度学习入门-百度\lession02" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson05" />
-      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson04\an" />
-      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson04" />
-      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson03" />
-      <recent name="G:\pythonLearningWorkSpace\Baidu_AI_Studio_Projects\08python_learning\lesson02" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -373,7 +385,7 @@
       <workItem from="1587637859057" duration="15152000" />
       <workItem from="1587895399468" duration="611000" />
       <workItem from="1587951078513" duration="11670000" />
-      <workItem from="1588087607922" duration="588000" />
+      <workItem from="1588087607922" duration="2538000" />
     </task>
     <servers />
   </component>
@@ -383,10 +395,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111315000" />
+    <option name="totallyTimeSpent" value="113265000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1318" height="784" extended-state="6" />
+    <frame x="54" y="-8" width="1318" height="784" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17408586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -426,9 +439,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04Recommendation/03/work/ml-1m/ratings.dat">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/04Recommendation/03/work/ml-1m/users.dat">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -714,20 +724,6 @@
     <entry file="file://$PROJECT_DIR$/08python_learning/lesson05/add_words.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/08python_learning/lesson01/418425.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08python_learning/lesson02/421605.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-846">
-          <caret line="234" column="4" lean-forward="true" selection-start-line="234" selection-start-column="4" selection-end-line="236" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08python_learning/lesson05/cn_stopwords.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -740,17 +736,36 @@
     <entry file="file://$PROJECT_DIR$/08python_learning/lesson05/aqy.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/08python_learning/lesson03/425859.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1064">
+          <caret line="96" column="44" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08python_learning/lesson04/430117.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-573" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08python_learning/lesson01/418425.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/08python_learning/lesson05/433941.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="1042">
           <caret line="140" column="18" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08python_learning/lesson03/425859.py">
+    <entry file="file://$PROJECT_DIR$/08python_learning/lesson02/421605.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1824">
-          <caret line="96" column="44" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="44" />
+        <state relative-caret-position="228">
+          <caret line="275" column="8" selection-start-line="275" selection-start-column="8" selection-end-line="284" selection-end-column="20" />
         </state>
       </provider>
     </entry>

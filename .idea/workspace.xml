@@ -52,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08python_learning/lesson05/433941.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1042">
+            <state relative-caret-position="2432">
               <caret line="140" column="18" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="18" />
             </state>
           </provider>
@@ -61,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/08python_learning/lesson02/421605.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="275" column="8" selection-start-line="275" selection-start-column="8" selection-end-line="284" selection-end-column="20" />
+            <state relative-caret-position="285">
+              <caret line="278" column="46" lean-forward="true" selection-start-line="278" selection-start-column="46" selection-end-line="278" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -145,8 +145,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="290" />
-    <option name="y" value="13" />
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
     <option name="width" value="1015" />
     <option name="height" value="574" />
   </component>
@@ -201,7 +201,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BNU-Demo-Projects/08CV/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BNU-Demo-Projects/08CV" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -386,6 +386,7 @@
       <workItem from="1587895399468" duration="611000" />
       <workItem from="1587951078513" duration="11670000" />
       <workItem from="1588087607922" duration="2538000" />
+      <workItem from="1588812141977" duration="1824000" />
     </task>
     <servers />
   </component>
@@ -395,13 +396,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113265000" />
+    <option name="totallyTimeSpent" value="115089000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1318" height="784" extended-state="7" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17408586" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09371555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -615,11 +616,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/05/results.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-57" />
-      </provider>
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-57" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06CV-Coronavirus/03/369809.py">
@@ -757,15 +758,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/08python_learning/lesson05/433941.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1042">
+        <state relative-caret-position="2432">
           <caret line="140" column="18" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/08python_learning/lesson02/421605.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="275" column="8" selection-start-line="275" selection-start-column="8" selection-end-line="284" selection-end-column="20" />
+        <state relative-caret-position="285">
+          <caret line="278" column="46" lean-forward="true" selection-start-line="278" selection-start-column="46" selection-end-line="278" selection-end-column="46" />
         </state>
       </provider>
     </entry>
